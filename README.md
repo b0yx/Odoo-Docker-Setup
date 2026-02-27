@@ -177,23 +177,3 @@ limit_time_real = 1200
 
 ---
 
-## 📜 License
-
-MIT (or your chosen license)
-
----
-
-# Optional Improvements (Recommended)
-
-If you want this repository to look professional on GitHub, also add:
-
-- `.gitignore`
-    
-- `LICENSE`
-    
-- `.env` file support
-    
-- Production + Development compose files
-    
-- Backup script
-
