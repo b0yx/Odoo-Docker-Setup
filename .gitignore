@@ -1,0 +1,5 @@
+odoo_pg_pass
+*.pyc
+__pycache__/
+*.log
+sessions/
